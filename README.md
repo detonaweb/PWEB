@@ -7,12 +7,12 @@
 
 # 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
-bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/ubuinst.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/detonaweb/PWEB/main/PainelWebV5/ubuinst.sh)
 ```
 
 # 🔑CHAVE DE INSTALAÇÃO:
 ```
-@swittecnologia
+@DETONAWEBSSH
 ```
 
 # 🔄SINCRONIZADOR SSH</br> 
