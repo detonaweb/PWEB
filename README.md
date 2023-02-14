@@ -19,7 +19,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/detonaweb/PWEB/main/PainelWeb
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/painel_web_v5/raw/main/PainelWebV5/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/detonaweb/PWEB/main/PainelWebV5/sincpainel.sh)
 ```
 
 # 🚀IMAGENS DO PAINEL:
