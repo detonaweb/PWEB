@@ -12,7 +12,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/detonaweb/PWEB/main/PainelWeb
 
 # 🔑CHAVE DE INSTALAÇÃO:
 ```
-@DETONAWEBSSH:000
+@DETONAWEBSSH:001
 ```
 
 # 🔄SINCRONIZADOR SSH</br> 
