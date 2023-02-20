@@ -1,4 +1,4 @@
-# 🚀PAINEL WEB V5 - MOD
+# 🚀PAINEL WEB DETONAWEBSSH
 
 <h3><b>👉 Sistema Suportado: (UBUNTU 18.04)</br>
 👇 Vps recomendada: </br>
